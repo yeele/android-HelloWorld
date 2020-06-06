@@ -14,7 +14,6 @@
         android:layout_marginLeft="140dp"
         android:layout_marginTop="80dp"
         android:gravity="center_horizontal"
-        android:text="@string/good_morning_text"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
