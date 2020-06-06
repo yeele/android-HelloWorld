@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/morningBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/morning_text"
@@ -29,7 +29,7 @@
         tools:layout_editor_absoluteY="150dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/afternoonBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/afternoon_text"
@@ -38,7 +38,7 @@
         tools:layout_editor_absoluteY="233dp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/eveningBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/good_morning_text"
